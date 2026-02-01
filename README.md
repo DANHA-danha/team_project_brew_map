@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="brew_map_intro.png" width="100%" />
+  <img src="image/brew_map_intro.png" width="100%" />
 </p>
 
 ## Development Log
@@ -14,9 +14,9 @@
 
 
 <details>
-<summary> 사업기획서 </summary>
+<summary> 기획서 </summary>
 
-- [사업기획서 - 서울 카페 업종 생존 분석을 통한 상권 분석 시스템.pdf](report/사업%기획서.pdf)
+- [기획서 - 서울 카페 업종 생존 분석을 통한 상권 분석 시스템.pdf](report/기획서.pdf)
 
 </details>
 
