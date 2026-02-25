@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="image/brew_map_intro.png" width="100%" />
-</p>
+
+
 
 ## Development Log
 <details>
