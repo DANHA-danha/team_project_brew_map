@@ -15,11 +15,13 @@
 <details>
 <summary> 기획서 </summary>
 
-<<<<<<< HEAD
-- [사업기획서 - 서울 카페 생존 분석을 통한 상권 분석 시스템.pdf](report/사업%기획서.pdf)
-=======
 - [기획서 - 서울 카페 업종 생존 분석을 통한 상권 분석 시스템.pdf](report/기획서.pdf)
->>>>>>> 7886fa2 (update readme)
 
 </details>
 
+<details>
+<summary> 보고서 </summary>
+
+- [PPT - 바나프레소_신규_입점_입지_추천_MVP.pdf](report/바나프레소_신규_입점_입지_추천_MVP.pdf)
+
+</details>
